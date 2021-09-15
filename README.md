@@ -9,6 +9,8 @@ README dosyası, bir adet index.html barındırıyor.
 
     git clone https://github.com/hakanozdemui/kodluyoruzilkrepo.git
 
+![alt text](https://github.com/[hakanozdemui]/[kodluyoruzilkrepo]/blob/[main]/../../../../../../../img/kodluyoruzilkrepo.jpgikodluyoruzilkrepomage.jpg?raw=true)
+
 
 ## Usage
 
@@ -28,4 +30,4 @@ Pull requestler kabul edilir.Büyük değişikler için önce neyi değiştirmek
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Proje](https://www.hizliresim.com/p3tfspu)
+
